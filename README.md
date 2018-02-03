@@ -17,6 +17,7 @@ This is working on this repo, http://mirror.centos.org/centos/7 or this http://m
 but if it continue not to work because the package dependencies won't install, the ansible-tower installation will fail too.
 There's a possibility that there's something wrong with the website internally, 
 try again later or find a good URL repository.
+This URL might change http://releases.ansible.com/ansible-tower/setup/ansible-tower-setup-latest.tar.gz from time to time.
 ```
 
 ```
