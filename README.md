@@ -1,6 +1,6 @@
 # Ansible-Tower v3.2.x Installation with one script after VM-CENTOS7/PHYSICAL-CENTOS7 had been provisioned.
 
-Tested on Centos7.4 minimall-install with 2vcpus, 4GBram and 60GBdisk.
+Tested on Centos7.4 minimall-install with 2vcpus, 4GBram and 60GBdisk.  I added the kickstart.cfg file.
 
 This will only take about 10-15 min if you are using SSD including vm provisioning.  
 
