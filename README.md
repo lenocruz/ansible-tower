@@ -1,3 +1,4 @@
+
 # Ansible-Tower v3.2.x Installation with one script after VM-CENTOS7/PHYSICAL-CENTOS7 had been provisioned.
 
 Tested on Centos7.4 minimall-install with 2vcpus, 4GBram and 60GBdisk.  I added the kickstart.cfg file.
@@ -25,3 +26,5 @@ Once it's done and ansible-playbook have no failures.  Put this to your browser 
 You should see the Ansible-Tower login, use admin/password.
 
 ```
+
+***https://www.youtube.com/watch?v=O8wmnr7Bs5Q***
